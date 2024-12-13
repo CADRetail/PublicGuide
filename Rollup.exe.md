@@ -67,7 +67,7 @@
 8. on each unique date Reload Ho. wait for log to show reload complete before doing next date.
 9. when you get to the end or after each ho reload refresh grid.
 
-## My plu is not in sync with BO
+## Store plu is not in sync with BO
 1. login to rollup
 2. open todays date
 3. look at stStockOnHand vs HoStockOnHand
