@@ -7,7 +7,9 @@ gives you history and autocomplete in windows terminal
 https://github.com/chrisant996/clink/releases/download/v1.7.10/clink.1.7.10.e3c993_setup.exe
 
 * create file `oh-my-posh.lua` in `C:\Users\<UserName>\AppData\Local\clink`
-`--config` is a link to file / url of OMP theme
+`--config` is a link to local file / url of git blob for any [OMP Themes](https://ohmyposh.dev/docs/themes)
+
+
 
 >[!info]+ oh-my-posh.lua
 >```lua
